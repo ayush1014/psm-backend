@@ -16,7 +16,9 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "mysql2": "^3.6.5",
-    "sequelize": "^6.35.1"
+    "sequelize": "^6.35.1",
+    "ejs": "latest",
+    "aws-sdk": "latest"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
